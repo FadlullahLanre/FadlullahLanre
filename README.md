@@ -10,16 +10,16 @@
   </a>
 </div>
     <img src="https://komarev.com/ghpvc/?username=FadlullahLanre&style=flat-square&color=blue" alt=""/>
+    
+
+
+⛓️ Backend Developer | ⛓️ Android Developer
  
- ## 👨‍💻 About me:
-Hey, I'm Fad...
-
-🖥️ Software Engineer | ⛓️ Backend Developer
+</div>
 
 
 
-
-## 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -36,11 +36,9 @@ Hey, I'm Fad...
       <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dot-net" **alt="Android" width="40" height="40"/>&nbsp;  
 </div>
 
-## 🔥 My Stats:
+### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FadlullahLanre&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadlullahLanre&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-</div>
 
