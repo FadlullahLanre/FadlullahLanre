@@ -13,7 +13,7 @@
     
 
 
-⛓️ Backend Developer | ⛓️ Android Developer
+⛓️ Backend Developer 
  
 </div>
 
